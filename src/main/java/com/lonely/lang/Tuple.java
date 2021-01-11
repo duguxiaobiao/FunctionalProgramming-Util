@@ -1,11 +1,11 @@
-package com.lonely.utils;
+package com.lonely.lang;
 
 /**
  * 项目名称：FunctionalProgramming-Util
  * 类 名 称：Tuple
  * 类 描 述：元组通用类
  * 创建时间：2020/12/2 11:17 下午
- * 创 建 人：macbook
+ * 创 建 人：风中追风
  */
 public class Tuple<T,U> {
 

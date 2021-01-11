@@ -4,8 +4,7 @@ import com.lonely.demo.第一章.CreditCard;
 import com.lonely.demo.第一章.Donut;
 import com.lonely.demo.第一章.DonutShop;
 import com.lonely.demo.第一章.Payment;
-import com.lonely.utils.Tuple;
-import org.junit.Assert;
+import com.lonely.lang.Tuple;
 import org.junit.Test;
 
 import java.util.List;

@@ -1,7 +1,5 @@
 package com.lonely.demo.第一章;
 
-import com.lonely.utils.Tuple;
-
 /**
  * 项目名称：FunctionalProgramming-Util
  * 类 名 称：Donut

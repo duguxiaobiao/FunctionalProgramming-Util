@@ -1,6 +1,6 @@
 package com.lonely.demo.第一章;
 
-import com.lonely.utils.Tuple;
+import com.lonely.lang.Tuple;
 
 import java.util.ArrayList;
 import java.util.List;
